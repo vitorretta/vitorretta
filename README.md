@@ -1,8 +1,6 @@
 ### Hi, I´m Vitor Retta 👋
 
-- 🔭 I’m currently working on infrastructure analyst
-- 🌱 I’m currently learning AWS/Azure/Devops/Kubernets/Linux/RedHat/Terrraform/Python/Ansilble/YAML
-- 🤔 I’m looking for help AWS/Azure/Devops/Kubernets/Linux/RedHat/Terrraform/Python/Ansilble/YAML
+- 🔭 nfrastructure professional with over 15 years of experience implementing and managing corporate infrastructure environments. I led and implemented mission critical environments using technologies such as VMWare, Redhat Linux, Windows, among others. Currently specializing in Cloud & DevOps technologies through the implementation of projects based on real scenarios with a focus on technologies and services from AWS, Microsoft Azure, Google Cloud and Oracle Cloud in order to support companies in their journeys of migration and modernization of environments on-premises to Cloud.
 - ⚡ Fun fact: I play guitar and I love Nirvana
 
 ## Hi, I´m Vitor Retta, Content creator beginner in technology such as cloud, networks, operating system and technology in general.
